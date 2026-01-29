@@ -35,4 +35,4 @@ To utilize this framework, ensure that the `stanfordSentimentTreebank` directory
 
 ## Authors
 
-This project was developed by **Malak Laham** and **Zenab Waked** as part of their studies in Natural Language Processing.
+This project was developed by **Malak** and **Zenab** as part of their studies in Natural Language Processing.
